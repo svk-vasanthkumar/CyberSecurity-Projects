@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Colorful Gradient Cyber Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:8b5cf6,100:ec4899&height=200&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=70&descSize=18&descColor=ffffff" alt="Cybersecurity Projects" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c2d12,100:ff6b00&height=200&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=70&descSize=18&descColor=ffffff" alt="Cybersecurity Projects" width="100%"/>
 
 <br>
 
