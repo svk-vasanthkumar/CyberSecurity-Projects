@@ -1,19 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0e7490,100:7c3aed&height=190&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=62&descSize=17&animation=fadeIn" alt="Cybersecurity Projects" width="100%"/>
+<!-- Terminal Block Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:051c0f&height=180&section=header&text=CYBERSECURITY_PROJECTS&fontSize=45&fontColor=00FF41&animation=scaleIn&desc=System.out.println(%22Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share%22);&descAlignY=70&descSize=14&descColor=4ade80" alt="Cybersecurity Projects" width="100%"/>
 
-# 🛡️ Cybersecurity Projects
+<br>
 
-**A practical open-source cybersecurity learning hub**
+<!-- Command Line Typing Effect -->
+<a href="https://github.com/svk-vasanthkumar/CyberSecurity-Projects">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_INITIATING_SYSTEM...;>_43_PROJECTS_ONLINE;>_18_DOMAINS_SECURED;>_ACCESS_GRANTED." alt="Terminal Typing Effect" />
+</a>
 
-**43 Projects · 18 Security Domains · 8+ Languages · Built for Learners & Researchers**
+<br><br>
 
-<p>
-<a href="#-security-universe">Explore Domains</a> ·
-<a href="#-learning-path">Learning Path</a> ·
-<a href="#-project-spotlight">Project Spotlight</a> ·
-<a href="#-contributing">Contribute</a>
+<!-- Stealth Flat-Square Badges -->
+<p align="center">
+  <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/stargazers">
+    <img src="https://img.shields.io/github/stars/svk-vasanthkumar/Cybersecurity-Projects?style=flat-square&logo=github&color=000000&labelColor=051c0f&logoColor=00FF41" alt="Stars" />
+  </a>
+  <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/network/members">
+    <img src="https://img.shields.io/github/forks/svk-vasanthkumar/Cybersecurity-Projects?style=flat-square&logo=git&color=000000&labelColor=051c0f&logoColor=00FF41" alt="Forks" />
+  </a>
+  <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/svk-vasanthkumar/Cybersecurity-Projects?style=flat-square&logo=users&color=000000&labelColor=051c0f&logoColor=00FF41" alt="Contributors" />
+  </a>
+  <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/issues">
+    <img src="https://img.shields.io/github/issues/svk-vasanthkumar/Cybersecurity-Projects?style=flat-square&logo=gitbook&color=000000&labelColor=051c0f&logoColor=00FF41" alt="Issues" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/svk-vasanthkumar">
+    <img src="https://img.shields.io/badge/SVK-GitHub-000000?style=flat-square&logo=github&logoColor=00FF41" alt="VASANTHKUMAR S GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/company/kascore/">
+    <img src="https://img.shields.io/badge/KASCORE-Verified-000000?style=flat-square&logo=checkmarx&logoColor=00FF41" alt="KASCORE"/>
+  </a>
+</p>
+
+<br>
+
+**[ ⚡ DOMAINS ](#-security-universe) &nbsp;·&nbsp; [ 🧠 PATH ](#-learning-path) &nbsp;·&nbsp; [ 🔥 SPOTLIGHT ](#-project-spotlight) &nbsp;·&nbsp; [ 🤝 CONTRIBUTE ](#-contributing)**
+
+</div>
 
 <p>
 <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/stargazers">
