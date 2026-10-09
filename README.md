@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Cybersecurity Projects | Premium Multi-Color Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:7c2d12,70:164e63,100:ff6b00&height=200&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=70&descSize=18&descColor=e5e7eb" alt="Cybersecurity Projects" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7c2d12,100:ff6b00&height=200&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=70&descSize=18&descColor=ffe4cc" alt="Cybersecurity Projects" width="100%"/>
+
 
 <br>
 
