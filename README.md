@@ -1,55 +1,81 @@
 <div align="center">
 
 <!-- Colorful Gradient Cyber Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c2d12,100:ff6b00&height=200&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=70&descSize=18&descColor=ffffff" alt="Cybersecurity Projects" width="100%"/>
+
+<!-- Cybersecurity Projects | Dark Orange Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7c2d12,100:ff6b00&height=200&section=header&text=CYBERSECURITY%20PROJECTS&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Share&descAlignY=70&descSize=18&descColor=ffe4cc" alt="Cybersecurity Projects" width="100%"/>
 
 <br>
 
-<!-- Vibrant Typing Effect -->
-<a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=E879F9&center=true&vCenter=true&width=600&lines=43+Projects+%C2%B7+18+Security+Domains;Built+for+Learners+%26+Researchers;Red+Team+%7C+Blue+Team+%7C+OSINT;Defend.+Exploit.+Secure." alt="Terminal Typing Effect" />
-</a>
+<!-- Animated Terminal Typing Effect -->
+<p align="center">
+  <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1500&color=FF6B00&center=true&vCenter=true&width=650&lines=43+Projects+%C2%B7+18+Security+Domains;Built+for+Learners+%26+Researchers;Red+Team+%7C+Blue+Team+%7C+OSINT;Defend.+Exploit.+Secure." alt="Cybersecurity Terminal Typing Effect"/>
+  </a>
+</p>
 
-<br><br>
+<br>
 
-<!-- Colorful Bold Badges -->
+<!-- Repository Statistics -->
 <p align="center">
   <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/stargazers">
-    <img src="https://img.shields.io/github/stars/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=github&color=f59e0b&labelColor=27272a&logoColor=f59e0b" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=github&color=ff6b00&labelColor=111111&logoColor=ffffff" alt="Stars"/>
   </a>
   <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/network/members">
-    <img src="https://img.shields.io/github/forks/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=git&color=10b981&labelColor=27272a&logoColor=10b981" alt="Forks" />
+    <img src="https://img.shields.io/github/forks/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=git&color=d97706&labelColor=111111&logoColor=ffffff" alt="Forks"/>
   </a>
   <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=users&color=3b82f6&labelColor=27272a&logoColor=3b82f6" alt="Contributors" />
+    <img src="https://img.shields.io/github/contributors/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=github&color=c2410c&labelColor=111111&logoColor=ffffff" alt="Contributors"/>
   </a>
   <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/issues">
-    <img src="https://img.shields.io/github/issues/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=gitbook&color=8b5cf6&labelColor=27272a&logoColor=8b5cf6" alt="Issues" />
+    <img src="https://img.shields.io/github/issues/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=gitbook&color=ea580c&labelColor=111111&logoColor=ffffff" alt="Issues"/>
   </a>
   <a href="https://github.com/svk-vasanthkumar/Cybersecurity-Projects/pulls">
-    <img src="https://img.shields.io/github/issues-pr/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=github&color=ec4899&labelColor=27272a&logoColor=ec4899" alt="Pull Requests" />
+    <img src="https://img.shields.io/github/issues-pr/svk-vasanthkumar/Cybersecurity-Projects?style=for-the-badge&logo=github&color=9a3412&labelColor=111111&logoColor=ffffff" alt="Pull Requests"/>
   </a>
 </p>
 
+<!-- Creator & Brand Links -->
 <p align="center">
   <a href="https://github.com/svk-vasanthkumar">
-    <img src="https://img.shields.io/badge/VASANTHKUMAR_S-GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="VASANTHKUMAR S GitHub"/>
+    <img src="https://img.shields.io/badge/CREATOR-VASANTHKUMAR_S-ff6b00?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub Creator"/>
   </a>
   <a href="https://www.linkedin.com/in/svk-vasanthkumar/">
-    <img src="https://img.shields.io/badge/VASANTHKUMAR_S-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="VASANTHKUMAR S LinkedIn"/>
+    <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-ff6b00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
   </a>
   <a href="https://www.linkedin.com/company/kascore/">
-    <img src="https://img.shields.io/badge/KASCORE-Verified-0ea5e9?style=for-the-badge&logo=checkmarx&logoColor=white" alt="KASCORE LinkedIn"/>
+    <img src="https://img.shields.io/badge/BRAND-KASCORE-ff6b00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=111111" alt="KASCORE"/>
   </a>
 </p>
 
 <br>
 
-**[ 🚀 Explore Domains ](#-security-universe) &nbsp;·&nbsp; [ 🧠 Learning Path ](#-learning-path) &nbsp;·&nbsp; [ 🔥 Project Spotlight ](#-project-spotlight) &nbsp;·&nbsp; [ 🤝 Contribute ](#-contributing)**
 
-</div>
+<!-- CYBERSECURITY NAVIGATION -->
+<p align="center">
+  <a href="#-security-universe">
+    <img src="https://img.shields.io/badge/01-SECURITY_UNIVERSE-ff6b00?style=for-the-badge&labelColor=0a0a0a" alt="Explore Security Domains"/>
+  </a>
+  <a href="#-learning-path">
+    <img src="https://img.shields.io/badge/02-LEARNING_PATH-ff6b00?style=for-the-badge&labelColor=0a0a0a" alt="Learning Path"/>
+  </a>
+  <a href="#-project-spotlight">
+    <img src="https://img.shields.io/badge/03-PROJECT_SPOTLIGHT-ff6b00?style=for-the-badge&labelColor=0a0a0a" alt="Project Spotlight"/>
+  </a>
+  <a href="#-contributing">
+    <img src="https://img.shields.io/badge/04-CONTRIBUTE-ff6b00?style=for-the-badge&labelColor=0a0a0a" alt="Contribute"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <sub>
+    <code>EXPLORE</code> &nbsp; • &nbsp;
+    <code>LEARN</code> &nbsp; • &nbsp;
+    <code>BUILD</code> &nbsp; • &nbsp;
+    <code>SECURE</code>
+  </sub>
+</p>
+
 
 ## ⚡ Why This Repository Exists
 
